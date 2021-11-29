@@ -1,0 +1,1342 @@
+[{
+    "GClassify": "language",
+    "GName": "English1",
+    "Questions": [{
+        "Question": "This is a market ____________ only the strongest and most competitive survive.",
+        "OP_A": "which",
+        "OP_B": "in which",
+        "OP_C": "under which",
+        "OP_D": "until which",
+        "Ans": "OP_B"
+    }, {
+        "Question": "How much ____________ do you make on a monthly basis on your investment?",
+        "OP_A": "interest",
+        "OP_B": "interests",
+        "OP_C": "interesting",
+        "OP_D": "interested",
+        "Ans": "OP_A"
+    }, {
+        "Question": "I've been working in this industry ____________ over half my life.",
+        "OP_A": "for",
+        "OP_B": "all",
+        "OP_C": "since",
+        "OP_D": "altogether with",
+        "Ans": "OP_A"
+    }, {
+        "Question": "What is the ____________ rate for a decent pair of jeans these days?",
+        "OP_A": "ongoing",
+        "OP_B": "undergoing",
+        "OP_C": "going",
+        "OP_D": "go-go",
+        "Ans": "OP_C"
+    }, {
+        "Question": "It is never right to ____________ advantage of a person in need.",
+        "OP_A": "take",
+        "OP_B": "make",
+        "OP_C": "break",
+        "OP_D": "fake",
+        "Ans": "OP_A"
+    }, {
+        "Question": "That sports car has the ____________ design I've ever laid my eyes on.",
+        "OP_A": "sleek",
+        "OP_B": "sleeker",
+        "OP_C": "sleekest",
+        "OP_D": "most sleek",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The Taj Mahal is one of the ____________ wonders of Asia.",
+        "OP_A": "architect",
+        "OP_B": "architect's",
+        "OP_C": "architecture",
+        "OP_D": "architectural",
+        "Ans": "OP_D"
+    }]
+}, {
+    "GClassify": "language",
+    "GName": "English2",
+    "Questions": [{
+        "Question": "The first time I met that client was more than twenty years ____________.",
+        "OP_A": "piror",
+        "OP_B": "before",
+        "OP_C": "ago",
+        "OP_D": "previous",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Who is the gentleman ____________ next to the queen?",
+        "OP_A": "sit",
+        "OP_B": "sits",
+        "OP_C": "sat",
+        "OP_D": "sitting",
+        "Ans": "OP_D"
+    }, {
+        "Question": "I have a special offer that may be ____________ interest to you.",
+        "OP_A": "for",
+        "OP_B": "of",
+        "OP_C": "quite",
+        "OP_D": "very",
+        "Ans": "OP_B"
+    }, {
+        "Question": "In our catalogue, you can see our ____________ range of kitchen products.",
+        "OP_A": "massive",
+        "OP_B": "delicate",
+        "OP_C": "full",
+        "OP_D": "deep",
+        "Ans": "OP_C"
+    }, {
+        "Question": "We will be making a three-day stopover in Cairo ____________ to Amsterdam.",
+        "OP_A": "in the air",
+        "OP_B": "en route",
+        "OP_C": "under way",
+        "OP_D": "on par",
+        "Ans": "OP_B"
+    }]
+}, {
+    "GClassify": "language",
+    "GName": "French1",
+    "Questions": [{
+        "Question": "What does 'famille' mean?",
+        "OP_A": "family",
+        "OP_B": "reality",
+        "OP_C": "fancy",
+        "OP_D": "famous",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which one is the word 'book' in French?",
+        "OP_A": "cahier",
+        "OP_B": "livre",
+        "OP_C": "stylo",
+        "OP_D": "gomme",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Which one is the word 'duck' in French?",
+        "OP_A": "boeuf",
+        "OP_B": "dinde",
+        "OP_C": "canard",
+        "OP_D": "lapin",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which one is the word 'mutton' in French?",
+        "OP_A": "mouton",
+        "OP_B": "mountain",
+        "OP_C": "mouse",
+        "OP_D": "bifteck",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which one is the word 'turkey' in French?",
+        "OP_A": "veau",
+        "OP_B": "saucisse",
+        "OP_C": "lapin",
+        "OP_D": "dinde",
+        "Ans": "OP_D"
+    }, {
+        "Question": "What does 'A thigh' mean?",
+        "OP_A": "Le boeuf",
+        "OP_B": "L'agneau",
+        "OP_C": "La saucisse",
+        "OP_D": "Une cuisse",
+        "Ans": "OP_D"
+    }]
+}, {
+    "GClassify": "language",
+    "GName": "French2",
+    "Questions": [{
+        "Question": "Je voudrais une bière et des frites. J'aime la bière et j'adore __________ frites.",
+        "OP_A": "les",
+        "OP_B": "le",
+        "OP_C": "la",
+        "OP_D": "las",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Pour moi, un café au lait. J'aime beaucoup __________ café au lait.",
+        "OP_A": "les",
+        "OP_B": "le",
+        "OP_C": "une",
+        "OP_D": "un",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Je voudrais une salade, s'il vous plaît. J'aime beaucoup __________ salade.",
+        "OP_A": "la",
+        "OP_B": "le",
+        "OP_C": "las",
+        "OP_D": "un",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Je voudrais trois croissants. J'adore __________ croissants.",
+        "OP_A": "les",
+        "OP_B": "le",
+        "OP_C": "las",
+        "OP_D": "la",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Aurélie est ___________ amie à moi.",
+        "OP_A": "des",
+        "OP_B": "un",
+        "OP_C": "une",
+        "OP_D": "la",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Thomas est __________ professur très rigoureux.",
+        "OP_A": "la",
+        "OP_B": "las",
+        "OP_C": "un",
+        "OP_D": "une",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Je voudrais __________ café crème s'il vous plait.",
+        "OP_A": "un",
+        "OP_B": "une",
+        "OP_C": "des",
+        "OP_D": "les",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Il y a un supermarché, une banque et  __________ école secondaire dans ce quartier.",
+        "OP_A": "un",
+        "OP_B": "une",
+        "OP_C": "des",
+        "OP_D": "les",
+        "Ans": "OP_B"
+    }, {
+        "Question": "C'est  __________ bonne nouvelle!",
+        "OP_A": "un",
+        "OP_B": "une",
+        "OP_C": "les",
+        "OP_D": "le",
+        "Ans": "OP_B"
+    }, {
+        "Question": "J'ai des crayons et __________ stylo.",
+        "OP_A": "un",
+        "OP_B": "une",
+        "OP_C": "les",
+        "OP_D": "le",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "history",
+    "GName": "Spanish history",
+    "Questions": [{
+        "Question": "What famous Spanish novel follows the (mis)adventures of an arguably insane elderly man and his trusty, food-loving side-kick?",
+        "OP_A": "Don Quijote de la Mancha",
+        "OP_B": "Niebla",
+        "OP_C": "La Regenta",
+        "OP_D": "Lazarillo de Tormes",
+        "Ans": "OP_A"
+    }, {
+        "Question": "In the late 16th Century, Spain entered into an “undeclared war” with this nation. The primary reasons were settlements and religion (Protestantism vs Catholicism).",
+        "OP_A": "Itlay",
+        "OP_B": "England",
+        "OP_C": "France",
+        "OP_D": "Portugal",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What legendary war-lord completed his father’s conquest of Hispania (Roman Spain) before leading his fleet of soldiers and elephants over the Alps and into Rome?",
+        "OP_A": "Hannibal",
+        "OP_B": "Alexander the Great",
+        "OP_C": "Hamilcar Barca",
+        "OP_D": "Flavius Aetius",
+        "Ans": "OP_A"
+    }, {
+        "Question": "This world-renowned American author had an obsession with Spain, often writing about “fiestas” and “toros”.",
+        "OP_A": "Ernest Hemingway",
+        "OP_B": "George Orwell",
+        "OP_C": "Mark Twain",
+        "OP_D": "Herman Melville",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Who rose to power at the end of the Spanish Civil War?",
+        "OP_A": "King Ferdinand",
+        "OP_B": "King Juan Carlos",
+        "OP_C": "General Francisco Franco",
+        "OP_D": "Miguel de Unamuno",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Speaking of the Spanish Civil War… When did it take place?",
+        "OP_A": "1851-1855",
+        "OP_B": "1601-1604",
+        "OP_C": "1723-1725",
+        "OP_D": "1936-1939",
+        "Ans": "OP_D"
+    }, {
+        "Question": "What year did Spain lose its last colony?",
+        "OP_A": "1764",
+        "OP_B": "1898",
+        "OP_C": "1856",
+        "OP_D": "1911",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What year did the Muslim occupation of Spain begin?",
+        "OP_A": "1012",
+        "OP_B": "1490",
+        "OP_C": "888",
+        "OP_D": "711",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Which group of people, who moved through the Iberian Peninsula in the last centuries BC, left a lasting mark on the northern regions of Spain (primarily Galicia and Asturias)?",
+        "OP_A": "Iberians",
+        "OP_B": "Celts",
+        "OP_C": "Moors",
+        "OP_D": "Visigoths",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What is the name of the crazed social movement that swept through Spain’s capital during the country’s transition from a dictatorship to a democracy?",
+        "OP_A": "La Reconquista",
+        "OP_B": "La Movida",
+        "OP_C": "El Movimiento",
+        "OP_D": "La Revolucion",
+        "Ans": "OP_B"
+    }]
+}, {
+    "GClassify": "history",
+    "GName": "French history",
+    "Questions": [{
+        "Question": "What is the capital city of France?",
+        "OP_A": "Besancon",
+        "OP_B": "Nantes",
+        "OP_C": "Paris",
+        "OP_D": "Reims",
+        "Ans": "OP_C"
+    }, {
+        "Question": "During ancient Roman times, the area now known as France was called _____.",
+        "OP_A": "Bourgogne",
+        "OP_B": "Franche-Comte",
+        "OP_C": "Gaul",
+        "OP_D": "Germania",
+        "Ans": "OP_C"
+    }, {
+        "Question": " Who is considered to be the first king of France?",
+        "OP_A": "Charlemagne",
+        "OP_B": "Clovis",
+        "OP_C": "Louis XVI",
+        "OP_D": "Napoleon Bonaparte",
+        "Ans": "OP_B"
+    }, {
+        "Question": " What is the French national anthem?",
+        "OP_A": "Frere Jacques",
+        "OP_B": "La Marseillaise",
+        "OP_C": "Liberte, Egalite, Fraternite",
+        "OP_D": "Sur le pont d’Avignon",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What French ruler was finally defeated at the Battle of Waterloo in 1815?",
+        "OP_A": "Charles de Gaulle",
+        "OP_B": "Joan of Arc",
+        "OP_C": "Louis the Pious",
+        "OP_D": "Napoleon Bonaparte",
+        "Ans": "OP_D"
+    }, {
+        "Question": "What young French girl helped bring France to victory in the Hundred Years’ War?",
+        "OP_A": "Catherine Deneuve",
+        "OP_B": "Coco Chanel",
+        "OP_C": "Joan of Arc",
+        "OP_D": "Marie Antoinette",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What absolute monarch of France is known as the “sun king”?",
+        "OP_A": "Charles Martel",
+        "OP_B": "Louis XIV",
+        "OP_C": "Napoleon Bonaparte",
+        "OP_D": "Pepin the Short",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Which of the following is not a region of France?",
+        "OP_A": "Alsace",
+        "OP_B": "Brittany",
+        "OP_C": "Espagne",
+        "OP_D": "Picardie",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What Paris structure was attacked on July 14, 1789, an event considered to be the official start of the French Revolution?",
+        "OP_A": "Bastille",
+        "OP_B": "Eiffel Tower",
+        "OP_C": "Tuileries Palace",
+        "OP_D": "Versailles",
+        "Ans": "OP_A"
+    }, {
+        "Question": "What is the most common religion in modern France?",
+        "OP_A": "Catholicism",
+        "OP_B": "Islam",
+        "OP_C": "Judaism",
+        "OP_D": "Protestantism",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "biology",
+    "GName": "Humankind nutrition",
+    "Questions": [{
+        "Question": " Secretions of pancreas help to digest",
+        "OP_A": "proteins",
+        "OP_B": "fats",
+        "OP_C": "carbohydrates",
+        "OP_D": "all of these",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Ghucose is stored in the form of glycogen in.....",
+        "OP_A": "stomach",
+        "OP_B": "intestine",
+        "OP_C": "liver",
+        "OP_D": "pancreas",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Gastric juice contains.....",
+        "OP_A": "HASO",
+        "OP_B": "HC1",
+        "OP_C": "ptyalin",
+        "OP_D": "bile",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Gastric juice contains.....",
+        "OP_A": "pepsin, lipase and rennin",
+        "OP_B": "trypsin, pepsin and lipase",
+        "OP_C": "trypsin, lipase and rennin",
+        "OP_D": "trypsin, pepsin and rennin",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Reabsorption of water takes place in the",
+        "OP_A": "stomach",
+        "OP_B": "large intestine",
+        "OP_C": "small intestine",
+        "OP_D": "oesophagus",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Digestion in the small intestine occurs in.....",
+        "OP_A": "acidic medium",
+        "OP_B": "neutral",
+        "OP_C": "alkaline medium",
+        "OP_D": "isotonic solution",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Suocus entericus is the name given to",
+        "OP_A": "a junetion between ileum and lagge intestine",
+        "OP_B": "intestinal juice",
+        "OP_C": "swelling in the gut",
+        "OP_D": "appendix",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Protein deficiency in children causes",
+        "OP_A": "kwashiorkor ",
+        "OP_B": "gigantism",
+        "OP_C": "dwarfism",
+        "OP_D": "marasmus",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Vomiting is caused due to",
+        "OP_A": "Peristalsis",
+        "OP_B": "reverse spasmodic peristalsis",
+        "OP_C": "reverse epistasis",
+        "OP_D": "osmosis",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Jaundice is caused due to",
+        "OP_A": "abnormal bilirubin metabolism",
+        "OP_B": "abnormal biliverdin metabobism",
+        "OP_C": "abnormal carbohydrate metabolism",
+        "OP_D": "abnormal protein metabolism",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "biology",
+    "GName": "Sea Animal",
+    "Questions": [{
+        "Question": " When at the Sea Park, I saw enormous ________  'dancing' together. Their black and white noses made them look like clowns.",
+        "OP_A": "shrimps",
+        "OP_B": "sea lions",
+        "OP_C": "sharks",
+        "OP_D": "orcas",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Playing among the rocks, at low tide, kids try to find little ________ , avoiding their pincers carefully.",
+        "OP_A": "crabs",
+        "OP_B": "sea stars",
+        "OP_C": "eels",
+        "OP_D": "urchins",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Look at this ________ Wouldn't you feel like riding it?",
+        "OP_A": "scallop",
+        "OP_B": "urchin",
+        "OP_C": "cray fish",
+        "OP_D": "sea horse",
+        "Ans": "OP_D"
+    }, {
+        "Question": "'Oh! This is Nemo with its orange and white colours... Well, I'm not quite sure, but it is ________ for sure !'",
+        "OP_A": "dolphin",
+        "OP_B": "a clown fish",
+        "OP_C": "sea horse",
+        "OP_D": "orca",
+        "Ans": "OP_B"
+    }, {
+        "Question": "It is said that ________ only attack humans when they're bleeding. I wonder if it's true.",
+        "OP_A": "dolphins",
+        "OP_B": "seals",
+        "OP_C": "penguins",
+        "OP_D": "sharks",
+        "Ans": "OP_D"
+    }, {
+        "Question": "How elegant ________ are when they swim! They used to be hunted for their shells... Shame on men...",
+        "OP_A": "sea turtles",
+        "OP_B": "scallops",
+        "OP_C": "sea horses",
+        "OP_D": "eels",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The only sea food I eat are ________ with mayonnaise, provided Mom takes their shells off...",
+        "OP_A": "cuttlefish",
+        "OP_B": "shrimps",
+        "OP_C": "urchins",
+        "OP_D": "jelly fish",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Under the water, an ________ really looks like a snake...",
+        "OP_A": "eel ",
+        "OP_B": "oyster",
+        "OP_C": "shark",
+        "OP_D": "urchin",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "music",
+    "GName": "History of Hip Hop",
+    "Questions": [{
+        "Question": "Hip hop culture was first created by teenagers in the poorest districts of",
+        "OP_A": "Los Angeles",
+        "OP_B": "New York City",
+        "OP_C": "Chicago",
+        "OP_D": "None of them",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Which dance style is associated with hip hop music of the 1970s and 80s?",
+        "OP_A": "disco",
+        "OP_B": "ballet",
+        "OP_C": "breaking",
+        "OP_D": "locking",
+        "Ans": "OP_C"
+    }, {
+        "Question": " Hip hop developed when DJs began making beats that MCs could _______ to on stage.",
+        "OP_A": "rap",
+        "OP_B": "dance",
+        "OP_C": "sing",
+        "OP_D": "all of the above",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The ability to rap with a good sense of rhythm is called",
+        "OP_A": "beat",
+        "OP_B": "snap",
+        "OP_C": "flow",
+        "OP_D": "swag",
+        "Ans": "OP_C"
+    }, {
+        "Question": "How elegant ________ are when they swim! They used to be hunted for their shells... Shame on men...",
+        "OP_A": "the trap",
+        "OP_B": "the hook",
+        "OP_C": "the catch",
+        "OP_D": "all of the above",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Grandmaster Flash and the Furious Five's song The Message is an example of _______ rap.",
+        "OP_A": "gangsta",
+        "OP_B": "socially-conscious",
+        "OP_C": "underground",
+        "OP_D": "none of them",
+        "Ans": "OP_B"
+    }, {
+        "Question": "A short section of an old record that's copied and re-used in a new track is called",
+        "OP_A": "a sample",
+        "OP_B": "a copy",
+        "OP_C": "a paste",
+        "OP_D": "a pasta",
+        "Ans": "OP_A"
+    }, {
+        "Question": "A sample-heavy hip hop track is one that includes",
+        "OP_A": "heavy samples",
+        "OP_B": "many samples",
+        "OP_C": "no samples",
+        "OP_D": "normal samples",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What is a collection of free songs downloaded from a music-sharing website called?",
+        "OP_A": "a freebie",
+        "OP_B": "a record",
+        "OP_C": "a mixtape",
+        "OP_D": "an album",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which kind of rap is usually about street gangs, violence and drug dealing?",
+        "OP_A": "hardcore rap",
+        "OP_B": "jazz rap",
+        "OP_C": "underground rap",
+        "OP_D": "unique rap",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "music",
+    "GName": "Kpop_BTS",
+    "Questions": [{
+        "Question": "Who is the 'mangnae'(youngest) member in BTS?",
+        "OP_A": "Jimin",
+        "OP_B": "Jungkook",
+        "OP_C": "Jin",
+        "OP_D": "J-Hope",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Who isn't the rap line member?",
+        "OP_A": "Suga",
+        "OP_B": "RM",
+        "OP_C": "V",
+        "OP_D": "J-Hope",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The date of their debut was ",
+        "OP_A": "20130613",
+        "OP_B": "20160316",
+        "OP_C": "20131204",
+        "OP_D": "20131231",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The 'BE' album was released on ",
+        "OP_A": "20200912",
+        "OP_B": "20201013",
+        "OP_C": "20201120",
+        "OP_D": "20201204",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Whose nickname is 'WWH'?",
+        "OP_A": "RM",
+        "OP_B": "Jin",
+        "OP_C": "Suga",
+        "OP_D": "J-Hope",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Who has the widest shoulder in BTS?",
+        "OP_A": "Jungkook",
+        "OP_B": "V",
+        "OP_C": "Jin",
+        "OP_D": "RM",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Who is the producer of the fansong 'Magic shop'?",
+        "OP_A": "Jungkook",
+        "OP_B": "RM",
+        "OP_C": "Suga",
+        "OP_D": "J-Hope",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "sport",
+    "GName": "Athletics",
+    "Questions": [{
+        "Question": "Modern-style athletics competitions began in English schools in the",
+        "OP_A": "17th century",
+        "OP_B": "18th century",
+        "OP_C": "19th century",
+        "OP_D": "20th century",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The IAAF World Championships in Athletics have been held since",
+        "OP_A": "1896",
+        "OP_B": "1961",
+        "OP_C": "1983",
+        "OP_D": "1972",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Most outdoor athletics tracks have",
+        "OP_A": "four lanes",
+        "OP_B": "six lanes",
+        "OP_C": "eight lanes",
+        "OP_D": "ten lanes",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Most indoor athletics tracks have a length of",
+        "OP_A": "200 metres",
+        "OP_B": "300 metres",
+        "OP_C": "400 metres",
+        "OP_D": "500 metres",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The longest running race in athletics is the",
+        "OP_A": "steeplechase",
+        "OP_B": "10,000 metres",
+        "OP_C": "marathon",
+        "OP_D": "pole-vault",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Some of the few team events in athletics are the",
+        "OP_A": "relay races",
+        "OP_B": "field events",
+        "OP_C": "gymnastics competitions",
+        "OP_D": "none of them",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The champion runner Paavo Nurmi was born in",
+        "OP_A": "Sweden",
+        "OP_B": "Denmark",
+        "OP_C": "Finland",
+        "OP_D": "New York",
+        "Ans": "OP_C"
+    }, {
+        "Question": "How many Olympic gold medals did Carl Lewis win?",
+        "OP_A": "seven",
+        "OP_B": "eight",
+        "OP_C": "nine",
+        "OP_D": "ten",
+        "Ans": "OP_C"
+    }]
+}, {
+    "GClassify": "sport",
+    "GName": "Boxing",
+    "Questions": [{
+        "Question": "A left-handed fighter is known as",
+        "OP_A": "an orthodox",
+        "OP_B": "a leftover",
+        "OP_C": "a southpaw",
+        "OP_D": "a rightover",
+        "Ans": "OP_C"
+    }, {
+        "Question": "A quick, straight punch with the leading hand is a",
+        "OP_A": "hook",
+        "OP_B": "jab",
+        "OP_C": "cross",
+        "OP_D": "across",
+        "Ans": "OP_B"
+    }, {
+        "Question": "A series of punches thrown in sequence is called a",
+        "OP_A": "parry",
+        "OP_B": "carry",
+        "OP_C": "combination",
+        "OP_D": "pretty",
+        "Ans": "OP_C"
+    }, {
+        "Question": "An illegal blow to the lower back is called a",
+        "OP_A": "sucker punch",
+        "OP_B": "kidney punch",
+        "OP_C": "rabbit punch",
+        "OP_D": "kangaroo punch",
+        "Ans": "OP_B"
+    }, {
+        "Question": "A closed hand with fingers bent in toward the palm is called a",
+        "OP_A": "fist",
+        "OP_B": "knuckle",
+        "OP_C": "blow",
+        "OP_D": "bow",
+        "Ans": "OP_A"
+    }, {
+        "Question": "A fighter with a serious cut could lose on a technical",
+        "OP_A": "detail",
+        "OP_B": "strike",
+        "OP_C": "knockout",
+        "OP_D": "knockoff",
+        "Ans": "OP_C"
+    }]
+}, {
+    "GClassify": "natural",
+    "GName": "Weather",
+    "Questions": [{
+        "Question": "If the weather forecast says it'll be 'overcast', it means it'll be",
+        "OP_A": "rainy",
+        "OP_B": "windy",
+        "OP_C": "cloudy",
+        "OP_D": "foggy",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which word best describes very cold weather?",
+        "OP_A": "cool",
+        "OP_B": "freezing",
+        "OP_C": "chilly",
+        "OP_D": "relax",
+        "Ans": "OP_B"
+    }, {
+        "Question": "A storm with lots of snow and very strong winds is called",
+        "OP_A": "a blizzard",
+        "OP_B": "a thunderstorm",
+        "OP_C": "a hurricane",
+        "OP_D": "a typhon",
+        "Ans": "OP_A"
+    }, {
+        "Question": "It was a ________ night, so we lay on our backs and looked at the stars.",
+        "OP_A": "foggy",
+        "OP_B": "clear",
+        "OP_C": "slushy",
+        "OP_D": "cloudy",
+        "Ans": "OP_B"
+    }, {
+        "Question": "The temperature at which water freezes is 32 degrees",
+        "OP_A": "Celsius",
+        "OP_B": "Centigrade",
+        "OP_C": "Fahrenheit",
+        "OP_D": "none of them",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which results from air pollution?",
+        "OP_A": "fog",
+        "OP_B": "smog",
+        "OP_C": "sleet",
+        "OP_D": "hot",
+        "Ans": "OP_B"
+    }, {
+        "Question": "If it's raining very lightly, it's",
+        "OP_A": "drizzling",
+        "OP_B": "puddling",
+        "OP_C": "piddling",
+        "OP_D": "dizzying",
+        "Ans": "OP_A"
+    }, {
+        "Question": "If it's hot with a lot of moisture in the air, we can say it's",
+        "OP_A": "rainy",
+        "OP_B": "boiling",
+        "OP_C": "humid",
+        "OP_D": "piddling",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which is not a form of precipitation?",
+        "OP_A": "rain",
+        "OP_B": "lightning",
+        "OP_C": "hail",
+        "OP_D": "none of them",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What do we use to measure the temperature?",
+        "OP_A": "a thermometer",
+        "OP_B": "a meteorologist",
+        "OP_C": "a wind chill factor",
+        "OP_D": "a thunderstorm",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "natural",
+    "GName": "North, South, East and West",
+    "Questions": [{
+        "Question": "The Earth rotates on a ________ axis.",
+        "OP_A": "north-east",
+        "OP_B": "north-west",
+        "OP_C": "north-south",
+        "OP_D": "north",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Southern elephant seals live ________ here.",
+        "OP_A": "south of",
+        "OP_B": "South of",
+        "OP_C": "southern",
+        "OP_D": "sorth",
+        "Ans": "OP_A"
+    }, {
+        "Question": "'We live on the south-east coast.' In this sentence south-east is",
+        "OP_A": "a noun",
+        "OP_B": "an adjective",
+        "OP_C": "an adverb",
+        "OP_D": "a proverb",
+        "Ans": "OP_B"
+    }, {
+        "Question": "North, south, east and west are often referred to as the ________ points of the compass.",
+        "OP_A": "cardinal",
+        "OP_B": "intercardinal",
+        "OP_C": "secondary",
+        "OP_D": "none of them",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The direction north-east is ________ point of the compass.",
+        "OP_A": "a tertiary",
+        "OP_B": "a cardinal",
+        "OP_C": "an intercardinal",
+        "OP_D": "none of them",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Europe is ________ of Africa.",
+        "OP_A": "to the south",
+        "OP_B": "in the nouth",
+        "OP_C": "north",
+        "OP_D": "in the south",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The grocery store faces ________ and gets a lot of sunlight.",
+        "OP_A": "south-east",
+        "OP_B": "north-east",
+        "OP_C": "in the south",
+        "OP_D": "in the north",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The weather report says the wind was ________ all night.",
+        "OP_A": "coming from the east",
+        "OP_B": "coming the east",
+        "OP_C": "facing east",
+        "OP_D": "to the east",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Moscow is ________ of Russia.",
+        "OP_A": "in the east",
+        "OP_B": "to the east",
+        "OP_C": "in the west",
+        "OP_D": "to the west",
+        "Ans": "OP_C"
+    }]
+}, {
+    "GClassify": "geography",
+    "GName": "Asia",
+    "Questions": [{
+        "Question": "How many time zones are there in the Asian continent?",
+        "OP_A": "2",
+        "OP_B": "11",
+        "OP_C": "15",
+        "OP_D": "18",
+        "Ans": "OP_B"
+    }, {
+        "Question": "What is the longest river in Asia called?",
+        "OP_A": "Yangtze",
+        "OP_B": "Ganges",
+        "OP_C": "Meking",
+        "OP_D": "Mekong",
+        "Ans": "OP_A"
+    }, {
+        "Question": "'The highest point on earth is found in Asia… what is it called?",
+        "OP_A": "Mount Kilimanjaro",
+        "OP_B": "Mount Everest",
+        "OP_C": "Mount Paramount",
+        "OP_D": "Mount Pleasant",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Where is the Gobi desert located?",
+        "OP_A": "Mongolia",
+        "OP_B": "Bhutan",
+        "OP_C": "China",
+        "OP_D": "Hong Kong",
+        "Ans": "OP_A"
+    }, {
+        "Question": "What separates China from India?",
+        "OP_A": "The Himalayas",
+        "OP_B": "The Ganges",
+        "OP_C": "The White Stripes",
+        "OP_D": "The Gorbels",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which of these is NOT a country in Asia? ",
+        "OP_A": "Armenia",
+        "OP_B": "Afghanistan",
+        "OP_C": "Azerbaijan",
+        "OP_D": "Angola",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What is the largest desert in Asia? ",
+        "OP_A": "Arabian Desert",
+        "OP_B": "Gobi Desert",
+        "OP_C": "Mojave Desert",
+        "OP_D": "Sonoran Desert",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which region of Asia is the furthest north?",
+        "OP_A": "Serbia",
+        "OP_B": "Siberia",
+        "OP_C": "Sri Lanka",
+        "OP_D": "The Maldives",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which two seas border the Caucasus region in Asia?",
+        "OP_A": "Adriatic and Baltic seas",
+        "OP_B": "Dead and Red seas",
+        "OP_C": "Black and Caspian seas",
+        "OP_D": "Bering and Redundan seas",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What are the Maluku Islands also known as?",
+        "OP_A": "The Spice Islands",
+        "OP_B": "The Cardamom Cluster",
+        "OP_C": "The Paprika Plains",
+        "OP_D": "The Aeomatic Atolls",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "geography",
+    "GName": "USA",
+    "Questions": [{
+        "Question": "The USA is the ________ biggest country in the world.",
+        "OP_A": "first",
+        "OP_B": "second",
+        "OP_C": "third",
+        "OP_D": "fourth",
+        "Ans": "OP_C"
+    }, {
+        "Question": "It consists of ________ states.",
+        "OP_A": "fifty",
+        "OP_B": "fifty-one",
+        "OP_C": "fifty-two",
+        "OP_D": "fifty-three",
+        "Ans": "OP_A"
+    }, {
+        "Question": "These states are represented in the flag and there's one _______ for each state.",
+        "OP_A": "star",
+        "OP_B": "stripe",
+        "OP_C": "circle",
+        "OP_D": "square",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The name of the flag is ",
+        "OP_A": "Stars and Sripes",
+        "OP_B": "Union Jack",
+        "OP_C": "Maple Leaf",
+        "OP_D": "none of them",
+        "Ans": "OP_A"
+    }, {
+        "Question": "There are also ________  stripes on the flag.",
+        "OP_A": "sixteen",
+        "OP_B": "fifteen",
+        "OP_C": "fourteen",
+        "OP_D": "thirteen",
+        "Ans": "OP_D"
+    }, {
+        "Question": "________  is the capital city.",
+        "OP_A": "Chicago",
+        "OP_B": "Los Angeles",
+        "OP_C": "New York",
+        "OP_D": "Washiington DC",
+        "Ans": "OP_D"
+    }, {
+        "Question": "________  is the biggest city.",
+        "OP_A": "Chicago",
+        "OP_B": "Los Angeles",
+        "OP_C": "New York",
+        "OP_D": "Washiington DC",
+        "Ans": "OP_C"
+    }]
+}, {
+    "GClassify": "art",
+    "GName": "The Art of Prehistory",
+    "Questions": [{
+        "Question": "The oldest securely dated European cave paintings are found in __________ cave in southeastern France.",
+        "OP_A": "Chauvet",
+        "OP_B": "Lascaux",
+        "OP_C": "Altamira",
+        "OP_D": "Pont du Norte",
+        "Ans": "OP_A"
+    }, {
+        "Question": "The Neolithic period lasted until the introduction of:",
+        "OP_A": "stone tools",
+        "OP_B": "metalworking",
+        "OP_C": "domestication of animals",
+        "OP_D": "year-round settlements",
+        "Ans": "OP_B"
+    }, {
+        "Question": "The term used to describe a royal Egyptian male headdress is a:",
+        "OP_A": "thutmose",
+        "OP_B": "serdab",
+        "OP_C": "names",
+        "OP_D": "anubis",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The Palette of Narmer was an important piece of work because it showed:",
+        "OP_A": "a translation of Egyptian heiroglyphs",
+        "OP_B": "the unification of Lower and Upper Egypt",
+        "OP_C": "the names of the rulers buried in the Great Pyramids",
+        "OP_D": "the mummification process",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Imhotep was important because he:",
+        "OP_A": "designed the Great Pyramid in Giza",
+        "OP_B": "was a high priest under Khafre",
+        "OP_C": "was the first recorded Sumerian architect",
+        "OP_D": "designed a tomb for King Djoser",
+        "Ans": "OP_D"
+    }, {
+        "Question": "________  is the capital city.",
+        "OP_A": "Chicago",
+        "OP_B": "Los Angeles",
+        "OP_C": "New York",
+        "OP_D": "Washiington DC",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Stonehenge dates from this period:",
+        "OP_A": "Paleolithic",
+        "OP_B": "Proto-Mesolithic",
+        "OP_C": "Mesolithic",
+        "OP_D": "Neolithic",
+        "Ans": "OP_D"
+    }, {
+        "Question": "The image of the Sphinx is believed to be the pharaoh:",
+        "OP_A": "Khafre",
+        "OP_B": "Menkaure",
+        "OP_C": "Djoser",
+        "OP_D": "Akenaton",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "art",
+    "GName": "The Art of Ancient Greece",
+    "Questions": [{
+        "Question": "This is the principle of art that indicates movement by the repetition of elements.",
+        "OP_A": "Variety",
+        "OP_B": "Rhythm",
+        "OP_C": "Unity",
+        "OP_D": "Balance",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Principle of art that uses contrast to draw attention to an area.",
+        "OP_A": "Emphasis",
+        "OP_B": "Proportion",
+        "OP_C": "Unity",
+        "OP_D": "Balance",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Principle of art in which lots of different shapes, colors, forms, textures, etc. might be used to make the work more interesting.",
+        "OP_A": "Unity",
+        "OP_B": "Balance",
+        "OP_C": "Variety",
+        "OP_D": "Rhythm",
+        "Ans": "OP_C"
+    }, {
+        "Question": "This term refers to the quality of wholeness or oneness that is achieved through the effective use of the elements and principles of art.",
+        "OP_A": "Unity",
+        "OP_B": "Rhythm",
+        "OP_C": "Balance",
+        "OP_D": "Variety",
+        "Ans": "OP_A"
+    }, {
+        "Question": "This principle of art is concerned with equalizing visual forces, elements, or weight equalizing visual forces, elements, or weight in a work of art.",
+        "OP_A": "Unity",
+        "OP_B": "Balance",
+        "OP_C": "Variety",
+        "OP_D": "Emphasis",
+        "Ans": "OP_B"
+    }, {
+        "Question": "The principle of Art concerned with the size relationships of one part to another.",
+        "OP_A": "Variety",
+        "OP_B": "Unity",
+        "OP_C": "Proportion",
+        "OP_D": "Balance",
+        "Ans": "OP_C"
+    }, {
+        "Question": "How many principles of art are there?",
+        "OP_A": "8",
+        "OP_B": "7",
+        "OP_C": "9",
+        "OP_D": "5",
+        "Ans": "OP_A"
+    }, {
+        "Question": "Which of the following is not a principle of art?",
+        "OP_A": "Contrast",
+        "OP_B": "Emphasis",
+        "OP_C": "Balance",
+        "OP_D": "Space",
+        "Ans": "OP_D"
+    }]
+}, {
+    "GClassify": "movie",
+    "GName": "Are You A True Star Wars Series Fan?",
+    "Questions": [{
+        "Question": "Who killed Boba Fett?",
+        "OP_A": "Han Solo",
+        "OP_B": "Obi-Wan Kenobi",
+        "OP_C": "Luke Skywalker",
+        "OP_D": "Jabba the Hutt",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The Clone Troopers turned on the Jedi on Order ------",
+        "OP_A": "77",
+        "OP_B": "46",
+        "OP_C": "66",
+        "OP_D": "87",
+        "Ans": "OP_C"
+    }, {
+        "Question": "When Luke saw Ben Kenobi's Ghost on Hoth, Kenobi told him to go to -------",
+        "OP_A": "Kamino",
+        "OP_B": "Alderaan",
+        "OP_C": "Tatooine",
+        "OP_D": "Geonosis",
+        "Ans": "OP_C"
+    }, {
+        "Question": "How many planets are there in Star Wars?",
+        "OP_A": "308",
+        "OP_B": "460",
+        "OP_C": "15",
+        "OP_D": "640",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Who was Count Dooku's Master when he was a jedi?",
+        "OP_A": "Yoda",
+        "OP_B": "Obi-wan Kenobi",
+        "OP_C": "Thame Cerulian",
+        "OP_D": "Agen Kolar",
+        "Ans": "OP_A"
+    }]
+}, {
+    "GClassify": "movie",
+    "GName": "Avengers: Endgame Ultimate Trivia",
+    "Questions": [{
+        "Question": "What does Thanos want?",
+        "OP_A": "To kill as many people as he can",
+        "OP_B": "To restore balance to the universe",
+        "OP_C": "To put an end to the Avengers",
+        "OP_D": "To save his home planet",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Who is the first Avenger?",
+        "OP_A": "Iron Man",
+        "OP_B": "Captain Marvel",
+        "OP_C": "Nick Fury",
+        "OP_D": "Captain America",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Who is Thor's father?",
+        "OP_A": "Odin",
+        "OP_B": "Loki",
+        "OP_C": "Hela",
+        "OP_D": "Surtur",
+        "Ans": "OP_A"
+    }, {
+        "Question": "On what planet do the Guardian of the Galaxy meet?",
+        "OP_A": "Knowhere",
+        "OP_B": "Nidavellir",
+        "OP_C": "Xandar",
+        "OP_D": "Earth",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What special forces group was Sam Wilson a.k.a. 'The Falcon' apart of before becoming an Avenger?",
+        "OP_A": "Pararescue ",
+        "OP_B": "Navy Seals",
+        "OP_C": "Army Ranger",
+        "OP_D": "Army Green Berets",
+        "Ans": "OP_A"
+    }, {
+        "Question": "What machine does Tony Stark use to keep metal from penetrating his heart?",
+        "OP_A": "Narcissism ",
+        "OP_B": "Concentration",
+        "OP_C": "A miniature arc reactor",
+        "OP_D": "His Iron Man suit",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What mystical artifact chooses Dr. Strange?",
+        "OP_A": "The Cauldron of the Cosmos",
+        "OP_B": "The Eye of Agamotto",
+        "OP_C": "The Vaulting Boots of Valtorr",
+        "OP_D": "The Cloak of Levitation ",
+        "Ans": "OP_D"
+    }, {
+        "Question": "Who is Peter Quill?",
+        "OP_A": "A Cree",
+        "OP_B": "StarLord",
+        "OP_C": "Lord of Stars",
+        "OP_D": "Starkiller",
+        "Ans": "OP_B"
+    }, {
+        "Question": "In what movie is Black Panthers first appearance?",
+        "OP_A": "Black Panther",
+        "OP_B": "Avengers: Age of Ultron",
+        "OP_C": "Captain America: Civil War",
+        "OP_D": "Thor: Ragnarok",
+        "Ans": "OP_C"
+    }, {
+        "Question": "Which infinity stone does Vision keep safe in his forehead?",
+        "OP_A": "Reality",
+        "OP_B": "Power",
+        "OP_C": "Mind",
+        "OP_D": "Time",
+        "Ans": "OP_C"
+    }]
+}, {
+    "GClassify": "science",
+    "GName": "A Fun Science Quiz For Children!",
+    "Questions": [{
+        "Question": "Squirrel monkey is a type of __________?",
+        "OP_A": "Squirrel",
+        "OP_B": "Lizard",
+        "OP_C": "Panda",
+        "OP_D": "Monkey",
+        "Ans": "OP_D"
+    }, {
+        "Question": "An instrument to measure temperature is called __________?",
+        "OP_A": "Hydrometer",
+        "OP_B": "Thermometer",
+        "OP_C": "Gyrometer",
+        "OP_D": "Tempometer",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Another name for a twister is:",
+        "OP_A": "Earthquake",
+        "OP_B": "Tornado",
+        "OP_C": "Wind",
+        "OP_D": "Flood",
+        "Ans": "OP_B"
+    }, {
+        "Question": "It is a bird born out of the largest egg in the world:",
+        "OP_A": "Hen",
+        "OP_B": "Turkey",
+        "OP_C": "Ostrich",
+        "OP_D": "Sparrow",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The seventh planet from the sun is:",
+        "OP_A": "Earth",
+        "OP_B": "Uranus",
+        "OP_C": "Mars",
+        "OP_D": "Jupiter",
+        "Ans": "OP_B"
+    }, {
+        "Question": "Albatross is:",
+        "OP_A": "A sea bird",
+        "OP_B": "A beetle",
+        "OP_C": "A fruit",
+        "OP_D": "A city",
+        "Ans": "OP_A"
+    }, {
+        "Question": "It bears the closest resemblance to man:",
+        "OP_A": "Panda",
+        "OP_B": "Rhino",
+        "OP_C": "Chimpanzee",
+        "OP_D": "Elephant",
+        "Ans": "OP_C"
+    }, {
+        "Question": "It is known as the ship of the desert:",
+        "OP_A": "Cat",
+        "OP_B": "Panther",
+        "OP_C": "Camel",
+        "OP_D": "Rabbit",
+        "Ans": "OP_C"
+    }, {
+        "Question": "The planet closest to the sun is:",
+        "OP_A": "Neptune",
+        "OP_B": "Mercury",
+        "OP_C": "Venus",
+        "OP_D": "Saturn",
+        "Ans": "OP_B"
+    }, {
+        "Question": "WThe blanket of air that envelops the earth is called _________ ?",
+        "OP_A": "Upper crust",
+        "OP_B": "Hydrosphere",
+        "OP_C": "Lithospere",
+        "OP_D": "Atmosphere",
+        "Ans": "OP_D"
+    }]
+}, {
+    "GClassify": "science",
+    "GName": "Key Stage3 Science",
+    "Questions": [{
+        "Question": "What type of force prevents a football from rolling on the grass forever?",
+        "OP_A": "Reflection",
+        "OP_B": "Rebound",
+        "OP_C": "Refraction",
+        "OP_D": "Line of Incidence",
+        "Ans": "OP_C"
+    }, {
+        "Question": "What type of energy is stored in a battey?",
+        "OP_A": "Kinetic energy",
+        "OP_B": "Gravitational potential energy",
+        "OP_C": "Light energy",
+        "OP_D": "Chemical energy",
+        "Ans": "OP_D"
+    }, {
+        "Question": "If an incident light ray produces an angle of incidence equal to 30 degrees when hitting a mirror: What is the angle of reflection equal to?",
+        "OP_A": "90 degress",
+        "OP_B": "30 degress",
+        "OP_C": "180 degress",
+        "OP_D": "45 degress",
+        "Ans": "OP_B"
+    }, {
+        "Question": "The more hours you spend revising for an exam the better your assessment results. This is an example of a ?",
+        "OP_A": "Dependent variable",
+        "OP_B": "Relationship",
+        "OP_C": "Independent variable",
+        "OP_D": "none if them",
+        "Ans": "OP_B"
+    }, {
+        "Question": "The frequency measures?",
+        "OP_A": "The number of oscillations in a wave as spitch",
+        "OP_B": "The number of peaks in a wave as wavelength",
+        "OP_C": "The speed of a wave as frequency",
+        "OP_D": "none of them",
+        "Ans": "OP_B"
+    }]
+}]

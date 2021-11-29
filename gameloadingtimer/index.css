@@ -1,0 +1,54 @@
+.gameloadingtimer{
+  display: none;
+}
+.gameloadingtimer .article-top{
+    padding:8vh 0;
+    margin: 0 0;
+}
+@keyframes h1-animation {
+  /* 50% {
+  opacity: 1;
+  }
+  70% {
+  opacity: 0;
+  }
+  100% {
+  opacity: 0;
+  }  */ 
+} 
+/* timer */
+.circular {
+  position: relative;
+  float:none;
+  color: #343434;
+}
+.circular h1 {
+  position: absolute;
+  line-height: 250px;
+  width: 100%;
+  font-size:xx-large;
+  /* animation-name: h1-animation; */
+  animation-duration:4s;
+  transition-timing-function: ease;
+  opacity: 1;
+}
+.gameloadingtimer p{
+  line-height: 80px;
+  color: #F8931D;
+}
+svg {
+  transform: rotate(-90deg);
+}
+.circle_animation {
+  stroke-dasharray: 440; /* this value is the pixel circumference of the circle */
+  stroke-dashoffset: 440;
+  transition: all 1s linear;
+}
+#circle{
+  position: absolute;
+  width: 100%;
+  stroke-width:5;
+  stroke:#F8931D;
+  fill:none;
+}
+

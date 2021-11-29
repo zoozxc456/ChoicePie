@@ -1,0 +1,148 @@
+.gameresult{
+    display: none;
+}
+.top{
+    padding-top: 3%;
+}
+.RecordTitle{
+    color: #ED5C20;
+    font-size: xx-large;
+}
+.Conditiontxt1,.Conditiontxt2{
+    font-size:x-large;
+    color: #f1931d;
+    text-align: center;    
+}
+.list{
+    padding:0 2% 0 0%;
+}
+.RecordList{
+    padding:0 2% 0 5%;
+    overflow-x: hidden;
+    height: 57vh;
+}
+.gameresult p{
+    margin: 0;
+}
+.listtitle{
+    border-radius: 10px/10px;
+    background-color: #ffffff;
+    margin: 0 0;
+}
+.listitem{
+    font-size: 3vh;
+    text-align: center;
+    color: #585857;
+    border-radius: 10px/10px;
+    background-color: #F2F2F2;
+    margin: 0 0 0 0;
+    border: 2px solid #ffffff;
+    padding:10px 0;
+}
+.listitem.active,.listitem.active .No{
+    background-color: #ed5c20 !important; ;
+    color: #ffffff !important;
+}
+.No{
+    color: #ED5C20;
+}
+/* width */
+.RecordList::-webkit-scrollbar {
+    width: 15px;
+}
+  
+  /* Track */
+.RecordList::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(187, 182, 182); 
+    border-radius: 20px;
+}
+   
+  /* Handle */
+.RecordList::-webkit-scrollbar-thumb {
+    background: #F8931D; 
+    border-radius: 20px;
+    position: relative;
+}  
+  /* Handle on hover */
+.RecordList::-webkit-scrollbar-thumb:hover {
+    background: #ED5C20; 
+}
+/* bar */
+#crown{
+    max-width:38%;
+    max-height:38%;
+    position: relative;
+    top: 4vw;
+    z-index: 10; 
+}
+.barbg{
+    background-color: #ED5C20;
+}
+#bar{
+    width: 50%;
+    margin-top: 0;
+    display: none;
+    /* height: 26vw; */
+}
+.theface{
+    height: 5vw;
+    width: 5vw;
+    border: 2px #ED5C20 solid;
+    border-radius: 50%;
+    position: relative;
+    top: 3vw;
+    background: #f5f3f3;
+}
+.bar1{
+    height: 0vw;
+    width: 10vw;
+}
+.bar2{
+    height: 0vw;
+    width: 10vw;
+}
+.bar3{
+    height: 0vw;
+    width: 10vw;
+}
+#bar label{
+    color:#ED5C20;
+    font-weight: bold;
+    font-size: x-large;
+}
+.back{
+    background-color:#f88706;
+    border-radius: 30px;
+    border: none;
+    padding: 6px 7px 6px 5px;
+}
+.back:hover{
+    background-color:#ED5C20;
+}
+@media screen  and (max-width: 768px){
+    #bar{
+        height: 35vw;
+    }
+}
+@media screen  and (max-width: 310px){
+    #bar{
+        height: 40vw;
+    }
+    .Conditiontxt2{
+        font-size:large;
+    }
+}
+.ranktitle{
+    margin: 0 5%;
+}
+.own{
+    width: 50%;
+    color: #585857;
+    border: solid 2px #f1931d;
+    border-radius: 10px;
+    font-size: 2vw;
+}
+#none{
+    /* display: none; */
+    margin: 0 5%;
+}

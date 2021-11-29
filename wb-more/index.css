@@ -1,0 +1,263 @@
+#article{
+    background-color: #FFFFFF;
+    min-height: 92vh;
+}
+.top{
+    padding: 2vh  0vh;
+}
+.title{
+    color: #ED5C20;
+    text-align: center;    
+    font-size: 4vh;
+    padding: 2vh 0vh;
+    margin: 0 0 0 6%;
+}
+.totnum{
+    padding: 2.5vh 0vh 0vh 0vh;
+    font-size: 3vh;
+}
+.tot{
+    color: #3f3f3e;
+    display: inline-block;
+}
+.num{
+    color: #ED5C20;
+    display: inline-block;
+}
+button{
+    border: none;
+    border-radius: 15%;
+    display: inline-block;
+    padding: 0;
+}
+.search{
+    padding: 2vh 5% 0vh 0vh;
+    display: inline-block;
+}
+.input{
+    TEXT-INDENT:3mm;
+    font-size: 3vh;
+    border: none;    
+    background-color:#f1f1f1;
+    display: inline-block;
+}
+img{
+    display: inline-block;
+}
+.btntitle>ul{
+    margin: 0;
+}
+.btn-warning{
+    background-color:#F8931D ;
+    width: 100%;
+    color: #ffffff;
+    border:solid 2px #ffffff ;
+}
+.listtitle{
+    color: #858585;
+    font-size: 3vh;
+    /* margin: 0; */
+}
+/* new */
+.titleitem{
+    border:none;
+    background-color:#ffffff;
+    color: #858585;
+}
+.text{
+    color: #ED5C20;
+    margin: 0;
+}
+.lglist{
+    display: none;
+}
+.list{
+    overflow-x: hidden;
+    height: 65vh;
+}
+.smlist{
+    display: block;
+}
+.btn.click{
+    background-color:#f88706;
+    color:#ffffff;
+}
+/* titi */
+.btn-warning.active,.list>li.active{
+    background-color: #ffb161 !important;
+    color: #FFFFFF !important;
+}
+.titlestyle{
+    color:#da5728;
+}
+/* titi */
+#RecordList li{
+    position: relative;
+    margin: 1% 0;
+    height: 6vh;
+    line-height: 6vh;
+    border-radius: 10px/10px;
+    font-weight: bolder;
+    font-size: 18px;
+    letter-spacing: 0rem;
+    background-color: #F2F2F2;
+    color: #000000;
+    width: 100%;
+}
+#RecordList li img,.collapseimg{
+    width:35px;
+    height:35px;
+}
+#RecordList::-webkit-scrollbar {
+    width: 0px;
+}
+#RecordTitle{
+    position: relative;
+    color: #ED5C20;
+    margin: 0px; 
+    padding: 1px 0; 
+    font-size: 20px;
+    font-weight: bolder;
+}
+#RecordList{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+#RecordList ul{
+    list-style: none;
+    padding: 0 2% 0 0;
+    position: relative;
+    border: solid 1px #FFFFFF;
+    border-radius: 10px/10px;   
+}
+#RecordList ul li{
+    color: #3f3f3e;
+}
+#pritxt{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #F8931D;
+    position:fixed;
+    top:15vh;
+    right:19vw;
+}
+#pri{
+    width:20px;
+    height:20px;
+    position:fixed;
+    top:16vh;
+    right:26vw;
+}
+.site-footer {
+    margin: 4%;
+    text-align: center;
+    display: inline-block;
+}
+
+.RecordPage li{
+    list-style: none;
+    /* padding: 5%; */
+}
+.RecordPage li>button{
+    display: inline-block;
+    color: #3f3f3e;
+    width: 40px;
+    height:40px;
+    text-align: center;
+    background-color: #eeeeee;
+    font-size:3vh;
+    border: none;
+}
+.RecordPage li>button:hover{
+    background-color: #F8931D;
+    color: white;
+    opacity: 0.8;
+    transform: scale(1.4);
+}
+.collapse li{
+    background-color: #F2F2F2;
+}
+.modal-dialog{
+    max-width: 60% !important;
+}
+.modal-body>div{
+    margin: 0 1rem;
+}
+.form-group textarea{
+    resize: none;
+}
+
+@media screen and (min-width:800px){
+    .lglist{
+        display: block;
+        padding: 0% 5% 2% 5%;
+    }
+    .smlist{
+        display: none;
+    }
+    .text{
+        font-size: 3vh;
+    }
+    .site-footer {
+        margin-top:0px;        
+    }
+}
+@media screen and (max-width:452px){
+    .title{
+        width: 100%;
+        padding:0 0 5% 0;
+    }
+    .totnum{
+        padding:0 0 0 6%;
+        width: 100%;
+        /* TEXT-INDENT:vh; */
+    }
+    .search {
+        padding:0;
+    }
+}
+/* width */
+.list::-webkit-scrollbar {
+    width: 15px;
+}
+  
+  /* Track */
+.list::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(187, 182, 182); 
+    border-radius: 20px;
+}
+   
+  /* Handle */
+.list::-webkit-scrollbar-thumb {
+    background: #F8931D; 
+    border-radius: 20px;
+    position: relative;
+}  
+  /* Handle on hover */
+.list::-webkit-scrollbar-thumb:hover {
+    background: #F15F2B; 
+}
+
+/* modal */
+.modal-header, h4, .close {
+    background-color: #F8931D;
+    color:white !important;
+    font-size: 30px;
+}
+.modal-footer {
+    background-color: #f9f9f9;
+}
+.submit{
+    background-color: #F8931D;
+    color:white !important;
+}
+.cancel{
+    background-color: #F15F2B;
+    color:white !important;
+}
+.tit{
+    color: #ED5C20;
+}

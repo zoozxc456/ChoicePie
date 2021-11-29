@@ -1,0 +1,140 @@
+#article{
+    background-color: #FFFFFF;
+    min-height: 92vh;
+}
+.title{
+    font-size: 4vh;
+    padding: 1vh 2vh;
+    margin:2% 5%;
+    color:#F15F2B;
+    border-bottom:solid 1px #7e7e7e;
+}
+p{
+    text-align:center;
+    font-size: x-large;
+    color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    /*align-items: center;
+    display: flex;*/
+}
+.cube{
+    background-color: #F2F2F2;
+    border-radius: 15px;
+    font-size: 3vh;
+    color: #F8931D;
+    display: inline-block;
+    vertical-align: top;
+}
+.cc{
+    margin: 5%;
+}
+.cctext{
+    min-width: 15%;
+    float: right;
+    color: #585857;
+}
+.ccnum{
+    color: #F15F2B;
+}
+.crt{
+    float: right;
+    margin-bottom:5%;
+}
+.c{
+    width: 15px;
+    height: 15px;
+    background-color: #F15F2B;
+    display: inline-block;
+    border-radius: 20px;
+    margin: 0;
+}
+.Reporttext{
+    color: #585857;
+    display: inline-block;
+    font-size: 3vh;
+    margin: 0;
+}
+.cube1{    
+    text-align:center;
+    background-color: #F2F2F2;
+    border:  5px solid #F15F2B;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 1%;
+    margin-bottom: 4%;
+}
+.cube2{    
+    text-align:center;
+    background-color: #F2F2F2;
+    border:  5px solid #F8931D;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 1%;
+    margin-bottom: 4%;
+}
+.report{
+    border: 5px solid #F15F2B;
+    background-color: #F15F2B;
+    
+}
+.add{
+    border: 5px solid #F8931D;
+    background-color: #F8931D;
+}
+.num{
+    color: #666;
+}
+.cubeclass{
+    padding:1vh 5%;
+}
+input::placeholder { color: #FFFFFF; }
+
+.carousel-content-div>.wrap>.title{
+    height: 7.5vh;
+    line-height:7.5vh;
+    background: #F8931D;
+}
+.carousel-content-div>.wrap>.paragraph{
+    height: 20vh
+}
+#preArrow >div:first-child,#nextArrow >div:first-child{
+    margin: 25% 0;
+}
+#right-bar{
+    padding-top: 75vh;
+}
+@media screen and (max-width:268px){
+    .cube1{    
+        margin-right: 0%;        
+    }
+    .cube2{            
+        margin-left: 0%;
+    }
+}
+@media screen and (max-width:767px){
+    .title{
+        width: 45%;
+        /* border-bottom:none; */
+        padding: 0vh 2vh;
+    }
+    .cubeclass{    
+        /* width: 45% */
+        padding:1vh 5%;
+    }
+    .cube{
+        width: 45%;
+    }
+    .cctext{
+        float: none;
+        text-align: right;
+        color: #585857;
+    }
+    .crt{
+        float: none;
+        margin-bottom:5%;
+        text-align: right;
+    }
+
+}

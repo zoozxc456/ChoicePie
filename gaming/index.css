@@ -1,0 +1,28 @@
+#article {
+    background-color: #FFFFFF;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#content {
+    position: unset !important;
+}
+#null-list{    
+    display: none;
+    background-color: #F2F2F2 !important;
+    border-radius: 10px/10px;
+    margin: 1% 5%;
+    padding: 12% 0;
+}
+.null-txt {
+    text-align: center;
+    margin: 2% 0;
+    color: #ffffff;
+    font-size: 4vh;
+    filter: drop-shadow(6px 6px 7px rgba(0, 0, 0, 0.2));
+}
+#pie {
+    filter: drop-shadow(6px 6px 7px rgba(0, 0, 0, 0.2));
+}

@@ -1,0 +1,245 @@
+#article{
+    background-color: #FFFFFF;
+    min-height: 92vh;
+}
+#top{
+    border-bottom:solid 1px #7e7e7e;
+    margin: 0 5%;
+}
+.title{
+    font-size: 5vh;
+    padding: 1vh 2vh;
+    margin:1% 0;
+    color:#F15F2B;
+    /* border-bottom:solid 1px #7e7e7e; */
+    
+}
+p{
+    text-align:center;
+    font-size: 4vh;
+}
+.cubeclass-2{
+    padding:2vh 5%;
+}
+.cubeclass{
+    padding:2vh 5%;
+}
+.bargraph{
+    /* background-color: #F2F2F2; */
+    /* border-radius: 15px; */
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2%;
+    
+}
+
+/* chart style */
+#button-container{
+    font-size: 3vh;
+    padding: 1vh 0vh;
+    margin:2% 2%;
+}
+.chartbtn{
+    background-color: #ffffff;
+    border-radius: 15px;
+    text-align: center;
+    border:  4px solid #F8931D;
+    margin: 0 0.3rem;
+    color: #F8931D;
+}
+.chartbtn:hover{
+    background-color: #F8931D;
+    border-radius: 15px;
+    text-align: center;
+    border:  4px solid #F8931D;
+    color: #ffffff;
+}
+.chartbtn.click{
+    background-color: #F8931D;
+    border-radius: 15px;
+    text-align: center;
+    border:  4px solid #F8931D;
+    color: #ffffff;
+}
+/* chart click style */
+.bar.chartclick{
+    fill: #F15F2B;
+}
+.bar{
+    fill: #F8931D;
+}
+.bar.active{
+    fill: #f15f2b ;
+}
+/*  */
+.datelist{
+    border-radius: 15px;
+    color: #585857;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2%;
+    font-size: 3vh;
+}
+.cube{
+    background-color: #F2F2F2;
+    border:  5px solid #F8931D;
+    border-radius: 15px;    
+    text-align: center;
+    padding:0vh 0;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2%;
+}
+.time{    
+    color: #585857;
+    margin-top:3%;
+}
+.visitor{
+    color: #585857;
+    display: inline-block;
+}
+.num{   
+    display: inline-block;
+    color: #F8931D;
+}
+.date{
+    /*background-color: #F15F2B;*/
+    border:  5px solid #F15F2B;
+    border-radius: 15px;
+    color: #ffffff;
+    padding:0vh 0;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2%;
+}
+.avgday{
+    background-color: #F15F2B;
+    color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    padding:1vh 0;
+    
+}
+.avg{
+    display: inline-block;
+    color: #F15F2B;
+    display: inline-block;
+
+}
+.list-group{
+    background: #F15F2B;
+    border-radius: 15px;
+    border:  5px solid #F15F2B;
+    transition: all 0.5s ease-in-out;
+}
+.list-group-item{
+    background-color: #F2F2F2;
+    padding: 0.9vh;
+    text-align: center;
+}
+.list-group-item:hover{
+    background-color: #F15F2B;
+    color: #ffffff;
+}
+.datelist{
+    display: block;
+}
+.dropdown{
+    display: none;
+}
+input::placeholder { color: #FFFFFF; }
+
+.carousel-content-div>.wrap>.title{
+    height: 7.5vh;
+    line-height:7.5vh;
+    background: #F8931D;
+}
+.carousel-content-div>.wrap>.paragraph{
+    height: 20vh
+}
+#preArrow >div:first-child,#nextArrow >div:first-child{
+    margin: 25% 0;
+}
+#right-bar{
+    padding-top: 75vh;
+}
+.btn-group{
+    display: none;
+}
+.list-group-item.active{
+    background-color: #F15F2B;
+    color: "#FFFFFF";
+    border: none;
+}
+/* titi */
+#bargraphitem{
+    background: #F15F2B; 
+    padding: 1%; 
+    margin: 1.5%; 
+}
+/* titi */
+@media screen and (max-width:1089px){
+    .bargraph{        
+        height:500px;   
+    }
+    .datelist{            
+        margin-left: 0%;
+    }
+    .cube{    
+        margin-right: 0%;
+        /* margin-bottom: 2%;  */
+    }
+    .date{            
+        margin-left: 0%;
+    }   
+    .datelist{
+        display:none;
+    }
+    .dropdown{
+        margin-top: 2%;
+        display:initial;
+        border: none;
+        /* margin: 0 5% 0 5%; */
+        background-color: #da5728;
+        color:#ffffff;
+        border-radius: 10px;
+        font-size: 3vh;
+        text-align: center;
+    }
+    .dd{
+        padding-left:5%;
+    }
+    .collapse{        
+        background-color: #da5728;
+    }
+    .list-group{        
+        background-color: #da5728;
+        border:  2px solid #da5728;
+        color: #585857;
+    }
+    .dropdown>button::after{
+        display: none;
+    }
+    .dropdown-toggle{
+        width: 100%;
+        font-size: 3vh;
+        color: #ffffff;
+        background-color: #da5728;
+        border: none;
+        border-radius: 10px;
+    }
+}
+ /* @media screen and (max-width:767px){
+    .title{
+        width: 45%;
+        
+        padding: 0vh 2vh;
+    }
+    .cubeclass{    
+        
+        padding:1vh 5%;
+    }
+    .cube{
+        width: 45%;
+    } 
+} */

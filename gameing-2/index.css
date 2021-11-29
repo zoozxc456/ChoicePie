@@ -1,0 +1,83 @@
+.gameing-2 {
+    display: none;
+    text-align: center;
+}
+
+.gameing-2 .article-top {
+    padding: 5vh 0;
+    margin: 0 7.5vw;
+}
+
+.gameing-2 .text {
+    bottom: 0px;
+    color: #F8931D;
+    text-align: center;
+    font-size: 3vh;
+    /* margin-top: 50px; */
+}
+
+.gameing-2 .progress {
+    margin-top: 20%;
+    margin-bottom: 8%;
+    border-radius: 15px;
+    height: 12px;
+}
+
+.progress-scoreBar {
+    /* background: linear-gradient(to left, rgb(250, 234, 87), #f8500d); */
+    border-radius: 15px;
+    height: 12px;
+    background-color: #F8931D;
+}
+#score,#order{
+    display: none;
+}
+.btn {
+    border-radius: 15px;
+}
+
+.plus {
+    display: inline;
+}
+
+.point {
+    display: inline;
+}
+
+.gameing-2 .circle {
+    margin: 70px 0 50px 0;
+}
+
+.counter-value {
+    color: #FFFFFF !important;
+    background: linear-gradient(to top right, #faaa4f, #e96519);
+    font-size: 40px;
+    /* padding: 3% ; */
+    border-radius: 50%;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.3);
+    transform: translateX(-50%);
+    position: absolute;
+    margin-top: 0%;
+    left: 50%;
+    height: 150px;
+    width: 150px;
+    display: inline;
+    line-height: 150px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .counter-value {
+        position: absolute;
+        margin-top: 0%;
+        left: 58.5%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .counter-value {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        font-size: 30px;
+    }
+}

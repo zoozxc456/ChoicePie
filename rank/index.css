@@ -1,0 +1,324 @@
+#article {
+    background-color: #FFFFFF;
+}
+
+#rank {
+    display: none;
+}
+
+#rank-null {
+    /* display: none; */
+}
+
+.all {
+    padding: 3% 5% 0% 5%;
+}
+
+#GameList {
+    height: 73vh;
+}
+
+.white {
+    color: #FFFFFF;
+    margin: 0 1%;
+}
+
+.GameListTit {
+    color: #F15F2B;
+}
+
+.GameList {
+    padding-right: 2%;
+}
+
+#GameList ul,
+#RankDetails ul {
+    list-style: none;
+    padding: 0;
+    position: relative;
+    border: solid 1px #FFFFFF;
+    border-radius: 10px/10px;
+}
+#GameList ul{
+    overflow: hidden;
+    max-height: 72vh;
+}
+#RankDetails ul {
+    border: none !important;
+}
+
+#GameList li,
+#RankList li {
+    list-style: none;
+    position: relative;
+    padding: 1% 0;
+    margin: 1% 0;
+    line-height: 6vh;
+    border-radius: 10px/10px;
+    font-weight: bolder;
+    font-size: 3vh;
+    letter-spacing: 0.1rem;
+}
+
+#GameList li {
+    color: #343434;
+    background-color: #F2F2F2;
+}
+
+#GameList li.click {
+    color: #ffffff;
+    background-color: #F8931D;
+}
+
+#RankList li {
+    background-color: #FFFFFF;
+}
+
+.up,
+.down {
+    border: none;
+    background-color: #FFFFFF;
+    opacity: 1;
+}
+
+.up:not(:disabled):hover,
+.down:not(:disabled):hover {
+    opacity: 0.8;
+}
+.up:disabled,.down:disabled{
+    filter: grayscale(1) opacity(0.8);
+}
+.up:disabled:hover,.down:disabled:hover{
+    opacity: 1;
+}
+
+.red {
+    color: #F15F2B;
+}
+
+.black {
+    color: #343434;
+}
+
+.org {
+    color: #F8931D;
+}
+
+#RankDetails {
+    background-color: #F8931D;
+    border-radius: 15px;
+}
+
+#RankDetails>div {
+    height: max-content;
+}
+
+#RankList {
+    padding: 0 2% 0 5%;
+    overflow-x: hidden;
+    height: 35vh;
+}
+
+
+/* width */
+
+#RankList::-webkit-scrollbar {
+    width: 15px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+
+/* Track */
+
+#RankList::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(187, 182, 182);
+    border-radius: 20px;
+}
+
+
+/* Handle */
+
+#RankList::-webkit-scrollbar-thumb {
+    background: #F15F2B;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+/* Handle on hover */
+
+#RankList::-webkit-scrollbar-thumb:hover {
+    background: #F15F2B;
+}
+#gn{
+    max-width: 55%;
+}
+
+/* bar */
+
+.barbg {
+    background-color: #FFFFFF;
+}
+
+#bar {
+    width: 80%;
+    margin-top: 0;
+    margin: 0 10%;
+    padding: 0 0;
+    height: 17vw;
+}
+
+.theface {
+    height: 4vw;
+    width: 4vw;
+    border: 2px #F15F2B solid;
+    border-radius: 50%;
+    position: relative;
+    top: 2vw;
+    background: #f5f3f3;
+}
+
+.bar1 {
+    height: 0vw;
+    width: 6vw;
+}
+
+.bar2 {
+    height: 0vw;
+    width: 6vw;
+}
+
+.bar3 {
+    height: 0vw;
+    width: 6vw;
+}
+
+#bar label {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#RankDetails button {
+    display: none;
+}
+
+@media screen and (max-width:767px) {
+    #RankDetails button {
+        display: block;
+        margin: 10%;
+    }
+    #RankDetails {
+        display: none;
+        position: absolute;
+        left: 0px;
+        top: 0;
+        border-radius: 0;
+        transition: 1s;
+        /* padding-left: 3%; */
+        background-color: rgba(0, 0, 0, 0.6);
+        /* width: 100vw; */
+        /* height: 88vh; */
+        min-height: 100vh;
+    }
+    .bar1 {
+        width: 20vw;
+    }
+    .bar2 {
+        width: 20vw;
+    }
+    .bar3 {
+        width: 20vw;
+    }
+    .theface {
+        height: 10vw;
+        width: 10vw;
+        top: 5vw;
+    }
+    #RankList {
+        padding: 0 1% 0 2%;
+        height: 50vh;
+    }
+    #bar {
+        height: 32vw;
+    }
+    .GameList {
+        padding-right: 0%;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    #bar {
+        height: 35vw;
+    }
+}
+
+#GameList2 {
+    background-color: #F2F2F2;
+    border-radius: 10px/10px;
+    height: 100%;
+}
+
+#GameList2 h2 {
+    margin-top: 40%;
+    color: #ffffff;
+    filter: drop-shadow(6px 6px 7px rgba(0, 0, 0, 0.2));
+}
+
+#GameList2>div>button {
+    background-color: #F8931D;
+    color: #FFFFFF;
+    margin: 0 0 50% 0;
+    padding: 0 8%;
+    font-size: x-large;
+    letter-spacing: 1px;
+    box-shadow: 6px 6px 7px rgba(0, 0, 0, 0.1);
+}
+
+.bbpie {
+    filter: drop-shadow(6px 6px 7px rgba(0, 0, 0, 0.2));
+    max-height: 60%;
+    max-width: 60%;
+    margin: 22vh 20%;
+}
+
+#RankDetails2 {
+    background-color: #F8931D;
+    border-radius: 15px;
+}
+
+#RankDetails2 button {
+    display: none;
+}
+
+@media screen and (max-width:767px) {
+    #RankDetails2 button {
+        display: block;
+        margin: 10%;
+    }
+    #RankDetails2 {
+        display: none;
+        position: absolute;
+        left: 0px;
+        top: 12vh;
+        border-radius: 0;
+        transition: 1s;
+        /* padding-left: 3%; */
+        background-color: rgba(0, 0, 0, 0.6);
+        /* width: 100vw; */
+        height: 100%;
+    }
+}
+@media screen and (max-width:575px) {
+    #gn{
+        max-width: 150px;
+    }
+}
+.play {
+    transition: all 0.3s ease-in-out;
+}
+
+.play:hover {
+    transform: scale(1.3);
+}

@@ -1,0 +1,251 @@
+@font-face {
+    font-family: "berlin-sans-fb-demi-bold";
+    src: url("berlin-sans-fb-demi-bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "BAUHS93";
+    src: url("BAUHS93.ttf") format("truetype");
+}
+
+* {
+    font-family: "berlin-sans-fb-demi-bold";
+}
+
+
+/* Header */
+
+#header {
+    font-family: "BAUHS93";
+    height: 12vh;
+    background: #F8931D;
+}
+
+#logo {
+    /* line-height: 12vh; */
+    font-size: 4.5vh;
+    font-family: BAUHS93, fantasy;
+    color: #FFFFFF;
+    background-color: #F8931D;
+    border: none;
+}
+
+html,
+body {
+    background-color: #F2F2F2;
+}
+
+/* Content */
+
+#content {
+    position: relative;
+    height: 100%;
+}
+
+
+/* Article */
+
+#article {
+    /* height: 100%; */
+    min-height: 88vh;
+    transition: 1s;
+}
+
+
+/* Aside and Nav */
+
+.row {
+    --bs-gutter-x: 0 !important;
+}
+
+#piew {
+    widows: 5vh;
+    height: 5vh;
+}
+
+aside {
+    z-index: 2;
+    padding: 2vh 3vw;
+    height: 100%;
+    font-family: berlin-sans-fb-demi-bold, fantasy;
+}
+
+nav * {
+    color: #F8931D;
+    font-weight: bolder;
+    font-size: x-large;
+    /* border-radius: 10vh/10vh; */
+    list-style-type: none;
+}
+
+nav li {
+    margin: 2vh 0;
+}
+
+
+/*aside nav li:first-child{
+    color:#F8931D;
+    background-color: #FFFFFF;
+    border:solid 5px #F8931D;
+}
+aside nav li:first-child:hover{
+    color: #FFFFFF;
+    background-color: #F8931D;
+    border:solid 5px #F8931D;
+}*/
+
+.singin {
+    color: #F8931D;
+    background-color: #FFFFFF;
+    border: solid 4px #F8931D;
+    border-radius: 20px;
+    padding: 0 10%;
+}
+
+.singin:hover {
+    color: #FFFFFF;
+    background-color: #F8931D;
+    border: solid 4px #F8931D;
+    border-radius: 20px;
+}
+
+.item:hover {
+    border: solid 1px #F8931D;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    #btn-menu{
+        display: none;
+    }
+
+    aside nav,
+    aside nav li {
+        display: block;
+        z-index: 2;
+    }
+}
+
+@media screen and (max-width: 767.9px) {
+    aside {
+        display: none;
+        position: absolute;
+        left: 0px;
+        /* top: 15vh; */
+        transition: 1s;
+        padding-left: 3%;
+        background-color: rgba(0, 0, 0, 0.8);
+        width: 50%;
+    }
+
+    aside nav,
+    aside nav ul {
+        margin: 0 8vw;
+        transition: 3s;
+        display: none;
+        z-index: 2;
+        width: 80%;
+    }
+
+    .navShow {
+        display: block;
+        z-index: 20;
+    }
+
+    .navShow>ul {
+        display: block;
+    }
+
+    #btn-menu {
+        border-radius: 50% !important;
+        background-color: rgba(0, 0, 0, 0);
+        border: none;
+        display: block;
+        position: absolute;
+        left: 2vw;
+        padding: 0px 6px;
+    }
+}
+
+.pluebtn {
+    transition: all 0.2s ease-in-out;
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+    background-color: #F8931D;
+    border: none;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    display: none;
+}
+
+#plu {
+    width: 35px;
+    height: 35px;
+    /* display: none; */
+}
+
+.pluebtn:hover {
+    opacity: 0.9;
+    transform: scale(1.4);
+}
+
+@media screen and (max-height: 488px) {
+
+    /* Header */
+    #header {
+        height: 58px;
+    }
+
+    #logo {
+        line-height: 58px;
+        font-size: 22px;
+    }
+    #piew {
+        width: 27px;
+        height: 24px;
+    }
+}
+
+/* ::selection {
+	background: #313131;
+	color: #FFFFFF;
+} */
+
+/* modal */
+
+.btn-close {
+    float: right;
+}
+
+.sharetxt {
+    color: #000000;
+    padding: 10% 0;
+    /* margin: 15% 0; */
+    /* font-size: x-large; */
+    border-bottom: 2px solid #dddddd;
+}
+
+.link {
+    margin: 5% 0 0 0;
+}
+
+#signoutModal .yes{
+    background-color: #ED5C20;
+    color: white !important;
+    font-size: 20px;
+    padding: 1% 3%;
+}
+#signoutModal .no{
+    background-color: #F8931D;
+    color: white !important;
+    font-size: 20px;
+    padding: 1% 3%;
+}
+.modal-footer {
+    background-color: #f9f9f9;
+    padding: 0 0;
+}

@@ -1,0 +1,41 @@
+.gameing-1{
+    display: none;
+}
+.gameing-1 .article-top{
+    padding:5vh 0;
+    margin: 0 7.5vw;
+}
+.qNo{
+    color:#3F3F3E;
+}
+.gameing-1 .h3{
+    color: #ED5C20;
+}
+.gameing-1 .progress{
+    margin-top: 10%;
+    margin-bottom: 3%;
+    border-radius:15px;
+    height: 12px;    
+}
+.progress-bar{
+    /* background: linear-gradient(to left, rgb(250, 234, 87), #f8500d); */
+    border-radius:15px;
+    height: 12px;
+    background-color: #F8931D;
+}
+.btn{
+    border-radius:15px;
+}
+.gameing-1 .article-btn>button{
+    background: #F2F2F2;
+    width: 95%;
+    color: #F8931D;
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+}
+.gameing-1 .article-btn>button:hover{
+    background: #F8931D;
+    color: #FFFFFF;
+    opacity: 0.9;
+    transform: scale(1.1);    
+}

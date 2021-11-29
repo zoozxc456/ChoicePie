@@ -1,0 +1,24 @@
+html,body,#content{
+    height: 100% !important;
+}
+#article{
+    background-color: #FFFFFF;   
+    min-height: 92vh;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.next,.back{
+    border-radius: 15px;    
+    background-color: #F8931D;
+    color: #FFFFFF;
+    font-size: x-large;
+    padding: 3px 3%;
+    letter-spacing: 1px;
+}
+.next:hover,.back:hover{
+    color: #ffffff;
+    background-color:#f8621d;
+}

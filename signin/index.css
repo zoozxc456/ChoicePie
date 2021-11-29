@@ -1,0 +1,95 @@
+#article {
+    background-color: #FFFFFF;
+}
+
+#top-article {
+    padding: 5vh 0;
+    margin: 0 7.5vw;
+    border-bottom: solid 1px #F8931D;
+}
+
+#top-article label {
+    color: #F8931D;
+}
+
+#bottom-article {
+    padding: 5vh 0;
+    margin: 0 7.5vw;
+}
+
+.form-control {
+    background-color: #CCCCCC !important;
+    border: solid 1px #CCCCCC !important;
+    padding: 0.3rem;
+    font-size: x-large;
+    color: #000000;
+    width: 23.5vw;
+    /* border-radius: 10px 10px; */
+}
+
+.form-control::placeholder {
+    color: #FFFFFF;
+}
+.form-control.is-invalid {
+    padding-right: 0.3rem;
+}
+#article-btn,
+#bottom-article-btn {
+    background: #F8931D;
+    color: #FFFFFF;
+    opacity: 1;
+    transition: all 0.6s ease-in-out;
+}
+
+#article-btn:hover,
+#bottom-article-btn:hover {
+    opacity: 0.8;
+    transform: scale(1.3);
+}
+
+p {
+    margin-bottom: 40px;
+}
+
+#right-bar {
+    padding-top: 75vh;
+}
+
+@media screen and (max-width:960px) {
+    input {
+        font-size: large !important;
+    }
+}
+
+@media screen and (max-width:767px) {
+    input {
+        width: 30vw !important;
+        font-size: large !important;
+    }
+}
+
+@media screen and (max-width:575px) {
+    input {
+        width: 40vw !important;
+    }
+    #top-article button,
+    #bottom-article button {
+        width: 30% !important;
+        font-size: 1rem !important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    input {
+        width: 118% !important;
+        font-size: 0.6rem !important;
+    }
+    #top-article button,
+    #bottom-article button {
+        width: 35% !important;
+        font-size: 0.9rem !important;
+    }
+}
+.modal-body {
+    color: #282827;
+}

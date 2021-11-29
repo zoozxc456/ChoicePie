@@ -1,0 +1,19 @@
+
+#content{
+    background-color: #e4e4e4;
+    height: 100vh !important;
+}
+h3{
+    color: #484848;
+}
+#article{
+    position: relative;
+}
+.pi{
+    position: absolute;
+}
+#pi{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 2% 5%;
+}
